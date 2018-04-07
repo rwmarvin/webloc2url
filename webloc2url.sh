@@ -9,7 +9,7 @@
 ##
 ## Description:
 ##   Converts .webloc Mac files in current folder and all subfolders to .url
-##   files for Windows.
+##   files for Windows. Updated by rwmarvin to keep orginal modification date. 
 ##
 ## Usage:
 ##   cd ./top_path_to_webloc_dir/
